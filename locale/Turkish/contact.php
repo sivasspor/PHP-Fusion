@@ -20,7 +20,7 @@ $locale['423'] = "Bir Mesaj belirtmelisiniz";
 $locale['424'] = "Hatalı doğrulama kodu, lütfen doğrulama kodunu yeniden girin";
 $locale['425'] = "Dahili hata: mesajınız gönderilemedi.";
 // Message Sent
-$locale['440'] = "Mesajınız başarı ile gönderildi";
+$locale['440'] = "Mesajınız başarıyla gönderildi";
 $locale['441'] = "Teşekkürler";
 $locale['442'] = "Mesajınız aşağıdaki sebep(ler)den dolayı gönderilemedi:";
 $locale['443'] = "Lütfen tekrar deneyin.";
