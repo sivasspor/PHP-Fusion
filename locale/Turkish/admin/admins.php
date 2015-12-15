@@ -1,14 +1,14 @@
 <?php
 // Administrators messages
-$locale['400'] = "Administrator added";
-$locale['401'] = "Administrator updated";
-$locale['402'] = "Administrator removed";
+$locale['400'] = "Yönetici eklendi";
+$locale['401'] = "Yönetici güncellendi";
+$locale['402'] = "Yönetici kaldırıldı";
 // Search/Add Administrator
-$locale['410'] = "Add Administrator";
+$locale['410'] = "Yönetici ekle";
 $locale['411'] = "Search for users to add using the form below.";
-$locale['412'] = "User ID";
-$locale['413'] = "User Name";
-$locale['414'] = "Search";
+$locale['412'] = "Kullanıcı ID";
+$locale['413'] = "Kullanıcı Adı";
+$locale['414'] = "Ara";
 $locale['415'] = "Apply all privileges";
 $locale['416'] = "Make Super Administrator";
 $locale['417'] = "Add Admin";
